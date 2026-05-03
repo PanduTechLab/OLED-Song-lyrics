@@ -1,4 +1,4 @@
-# LyricScroll-ESP32
+# OLED-Song-lyrics
 
 A lightweight, text-based lyric display project designed for the ESP32 microcontroller and a 128x64 SSD1306 OLED display. This project demonstrates I2C communication and dynamic text rendering without the need for complex graphical assets.
 
